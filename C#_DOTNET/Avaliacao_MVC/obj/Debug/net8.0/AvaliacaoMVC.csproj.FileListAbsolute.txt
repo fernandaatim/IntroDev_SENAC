@@ -1,0 +1,14 @@
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\bin\Debug\net8.0\AvaliacaoMVC.exe
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\bin\Debug\net8.0\AvaliacaoMVC.deps.json
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\bin\Debug\net8.0\AvaliacaoMVC.runtimeconfig.json
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\bin\Debug\net8.0\AvaliacaoMVC.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\bin\Debug\net8.0\AvaliacaoMVC.pdb
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.AssemblyInfoInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.AssemblyInfo.cs
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\refint\AvaliacaoMVC.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.pdb
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\AvaliacaoMVC.genruntimeconfig.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoMVC\obj\Debug\net8.0\ref\AvaliacaoMVC.dll

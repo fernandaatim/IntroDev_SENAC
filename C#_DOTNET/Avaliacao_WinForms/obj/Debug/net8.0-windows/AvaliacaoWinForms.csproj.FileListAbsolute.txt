@@ -1,0 +1,17 @@
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\AvaliacaoWinForms.exe
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\AvaliacaoWinForms.deps.json
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\AvaliacaoWinForms.runtimeconfig.json
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\AvaliacaoWinForms.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\AvaliacaoWinForms.pdb
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.csproj.AssemblyReference.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.AssemblyInfoInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.AssemblyInfo.cs
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\Avaliaca.239600DC.Up2Date
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\refint\AvaliacaoWinForms.dll
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.pdb
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\AvaliacaoWinForms.genruntimeconfig.cache
+C:\Users\fernanda.berwald\Documents\csharp\AvaliacaoWinForms\obj\Debug\net8.0-windows\ref\AvaliacaoWinForms.dll
