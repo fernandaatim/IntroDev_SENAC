@@ -1,0 +1,14 @@
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.AssemblyInfoInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.AssemblyInfo.cs
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\bin\Debug\net8.0\atividade_inseto.exe
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\bin\Debug\net8.0\atividade_inseto.deps.json
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\bin\Debug\net8.0\atividade_inseto.runtimeconfig.json
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\bin\Debug\net8.0\atividade_inseto.dll
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\bin\Debug\net8.0\atividade_inseto.pdb
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.dll
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\refint\atividade_inseto.dll
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.pdb
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\atividade_inseto.genruntimeconfig.cache
+C:\Users\fernanda.berwald\Documents\csharp\atividade_inseto\obj\Debug\net8.0\ref\atividade_inseto.dll

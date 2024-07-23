@@ -1,0 +1,14 @@
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\bin\Debug\net8.0\Pessoa - Array.exe
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\bin\Debug\net8.0\Pessoa - Array.deps.json
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\bin\Debug\net8.0\Pessoa - Array.runtimeconfig.json
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\bin\Debug\net8.0\Pessoa - Array.dll
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\bin\Debug\net8.0\Pessoa - Array.pdb
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.AssemblyInfoInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.AssemblyInfo.cs
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.dll
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\refint\Pessoa - Array.dll
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.pdb
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\Pessoa - Array.genruntimeconfig.cache
+C:\Users\fernanda.berwald\Documents\csharp\Pessoa - Array\obj\Debug\net8.0\ref\Pessoa - Array.dll
